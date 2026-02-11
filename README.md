@@ -1,7 +1,7 @@
 # Leyanshi's General Open Source License v1
 Leyanshi's General Open Source License v1, which is a license used by the repository Leyanshi/LysDeltaMatch, gives the author and the contributors big permission.
 
-# WARNING: The English translated edition is made by DeepSeek. In case of conflict, the Chinese version shall prevail.
+# WARNING: The English translated edition is made by Google Translate. In case of conflict, the Chinese version shall prevail.
 
 
 ## Full Text
